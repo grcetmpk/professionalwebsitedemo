@@ -8,7 +8,29 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - sidebar:hobbies
       - webpages/projects.qmd
+      - sidebar:classes
+      
+      
+  sidebar:
+    - id: hobbies
+      title: "Hobbies"
+      style: "docked"
+      collapse-level: 2 
+      contents:
+        - webpages/hobbies/pottery.qmd
+        - webpages/hobbies/knitting.qmd
+        - webpages/hobbies/crocheting.qmd
+        
+    - id: classes
+      title: "Courses Taken"
+      style: "docked"
+      collapse-level: 2 
+      contents:
+        - webpages/classes/undergradclasses.qmd
+        - webpages/classes/gradclasses.qmd
+
 
 format:
   html:

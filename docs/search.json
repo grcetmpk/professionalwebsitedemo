@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Grace Tompkins",
-    "section": "",
-    "text": "[Current Role] in [Company]"
-  },
-  {
     "objectID": "webpages/projects.html",
     "href": "webpages/projects.html",
     "title": "Projects",
@@ -33,6 +19,13 @@
     "title": "Projects",
     "section": "Personal Projects",
     "text": "Personal Projects\nThis is a paragraph all about my personal projects blah blah blah"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Grace Tompkins",
+    "section": "",
+    "text": "[Current Role] in [Company]"
   },
   {
     "objectID": "index.html#education",
