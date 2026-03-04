@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Grace Tompkins",
+    "section": "",
+    "text": "[Current Role] in [Company]"
+  },
+  {
+    "objectID": "webpages/projects.html",
+    "href": "webpages/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Master’s Thesis: …\nSTAT545: Data Analysis"
+  },
+  {
+    "objectID": "webpages/projects.html#academic-projects",
+    "href": "webpages/projects.html#academic-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Master’s Thesis: …\nSTAT545: Data Analysis"
+  },
+  {
+    "objectID": "webpages/projects.html#personal-projects",
+    "href": "webpages/projects.html#personal-projects",
+    "title": "Projects",
+    "section": "Personal Projects",
+    "text": "Personal Projects\nThis is a paragraph all about my personal projects blah blah blah"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Grace Tompkins",
+    "section": "Education",
+    "text": "Education\nPh.D. in Statistics, University of Waterloo"
+  }
+]

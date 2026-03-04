@@ -1,0 +1,13 @@
+---
+title: "Grace Tompkins"
+about:
+  template: jolla
+  image: images/headshot.png
+---
+
+
+[Current Role] in [Company]
+
+## Education 
+
+Ph.D. in Statistics, University of Waterloo

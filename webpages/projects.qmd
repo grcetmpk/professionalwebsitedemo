@@ -1,0 +1,13 @@
+---
+title: "Projects"
+---
+
+## Academic Projects
+
+-   Master's Thesis: ...
+
+-   STAT545: Data Analysis
+
+## Personal Projects
+
+This is a paragraph all about my personal projects blah blah blah
