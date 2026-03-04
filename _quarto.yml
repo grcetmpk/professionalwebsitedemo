@@ -10,8 +10,10 @@ website:
         text: Home
       - sidebar:hobbies
       - webpages/projects.qmd
-      - sidebar:classes
-      
+    
+    right: 
+      - href: "https://github.com/grcetmpk/professionalwebsitedemo"
+        icon: github
       
   sidebar:
     - id: hobbies
@@ -22,15 +24,6 @@ website:
         - webpages/hobbies/pottery.qmd
         - webpages/hobbies/knitting.qmd
         - webpages/hobbies/crocheting.qmd
-        
-    - id: classes
-      title: "Courses Taken"
-      style: "docked"
-      collapse-level: 2 
-      contents:
-        - webpages/classes/undergradclasses.qmd
-        - webpages/classes/gradclasses.qmd
-
 
 format:
   html:
